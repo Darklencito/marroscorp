@@ -6,7 +6,7 @@
 }
 
 .sub-header .title {
-	color: #e0b900;
+	color: #428bca;
 }
 
 .sub-header .custom-breadcrumb .separator {
@@ -15,18 +15,18 @@
 
 header .top-bar ul li.active a,
 header .top-bar ul li:hover a {
-	background: #e0b900;
-	border-right: 1px solid #e0b900;
+	background: #428bca;
+	border-right: 1px solid #428bca;
 }
 
 header .main-menu .navbar .navbar-toggle {
-	background: #e0b900;
+	background: #428bca;
 }
 
 header .main-menu .nav li > a:hover,
 header .main-menu .nav li.active > a,
 header .main-menu .nav li.active > a:hover {  
-	background: #e0b900;
+	background: #5FB4DC;
 }
 
 header .main-menu .navbar .btn-navbar {
@@ -107,8 +107,8 @@ footer button {
 }
 
 .button-gym {
-	background: #e0b900;
-	border-color: #e0b900;
+	background: #5FB4DC;
+	border-color: #5FB4DC;
 }
 
 .button-gym.big-button:hover,
@@ -211,11 +211,11 @@ footer button {
 }
 
 .pricing-table .title {
-	background: #e0b900;
+	background: #428bca;
 }
 
 .pricing-table .button a {
-	background: #e0b900;  
+	background: #428bca;  
 }
 
 .grid.magic-grid .filters button.active { 
@@ -335,11 +335,11 @@ footer .copyright .main-links li a:hover {
 }
 
 header .top-bar .dropdown ul { 
-	background-color: #e0b900; 
+	background-color: #428bca; 
 }
 
 header .top-bar .dropdown ul li { 
-	background-color: #e0b900; 
+	background-color: #428bca; 
 }
 
 header .top-bar .dropdown ul li:last-child { 
